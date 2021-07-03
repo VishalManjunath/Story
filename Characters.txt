@@ -2,3 +2,4 @@ Characters:
 The monkey
 The crocodile
 The crocodile's wife
+The duck
